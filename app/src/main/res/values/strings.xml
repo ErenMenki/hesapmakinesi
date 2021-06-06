@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="sifir">0</string>
+    <string name="bir">1</string>
+    <string name="iki">2</string>
+    <string name="uc">3</string>
+    <string name="dort">4</string>
+    <string name="bes">5</string>
+    <string name="alti">6</string>
+    <string name="yedi">7</string>
+    <string name="sekiz">8</string>
+    <string name="dokuz">9</string>
+
+    <string name="bolme">÷</string>
+    <string name="carpma">×</string>
+    <string name="toplama">+</string>
+    <string name="cikartma">-</string>
+    <string name="esittir">=</string>
+    <string name="temizle">C</string>
+    <string name="kare">2</string>
+    <string name="kup">3</string>
+
+    <string name="backspace"> </string>
+    <string name="display">enter value</string>
+</resources>
